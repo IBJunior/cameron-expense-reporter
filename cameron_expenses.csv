@@ -1,0 +1,21 @@
+date,amount,category,description,merchant,payment_method,tags,notes,recurring
+2025-01-03,87.42,groceries,Weekly grocery run,Whole Foods,credit_card,organic;weekly,Stocked up on produce,false
+2025-01-05,34.50,dining,Dinner with Sarah,Olive Garden,credit_card,social,Birthday celebration,false
+2025-01-07,15.00,transportation,Uber to downtown,Uber,debit_card,commute,Meeting at client office,false
+2025-01-09,12.99,entertainment,Netflix subscription,Netflix,credit_card,streaming,Monthly plan,true
+2025-01-10,142.30,utilities,Electric bill January,City Power Co,bank_transfer,bills,Winter heating spike,true
+2025-01-12,65.00,healthcare,Annual flu shot copay,CVS Pharmacy,insurance,medical;preventive,Covered by insurance partially,false
+2025-01-14,23.75,dining,Lunch at food truck,Taco Libre,cash,lunch,Tried the new birria tacos,false
+2025-01-16,55.20,groceries,Midweek grocery top-up,Trader Joe's,debit_card,snacks;essentials,,false
+2025-01-18,9.99,entertainment,Spotify Premium,Spotify,credit_card,streaming;music,Family plan,true
+2025-01-19,45.00,transportation,Gas fill-up,Shell,credit_card,fuel,Regular unleaded,false
+2025-01-21,200.00,other,New running shoes,Nike Store,credit_card,fitness;clothing,Training for half marathon,false
+2025-01-23,78.50,groceries,Costco bulk buy,Costco,debit_card,bulk;household,Paper towels and cleaning supplies,false
+2025-01-24,62.00,dining,Team dinner,Chipotle,credit_card,work;social,Expensed to company,false
+2025-01-25,38.00,transportation,Monthly parking garage,City Parking,bank_transfer,parking;commute,Office building garage,true
+2025-01-26,85.00,utilities,Internet bill,Comcast,bank_transfer,bills,Upgraded to 500 Mbps plan,true
+2025-01-27,150.00,healthcare,Dental cleaning,Bright Smile Dental,insurance,dental;checkup,Semi-annual visit,false
+2025-01-28,19.99,entertainment,Movie tickets,AMC Theatres,credit_card,movies;date-night,Watched the new sci-fi release,false
+2025-01-29,41.30,groceries,Quick stop for dinner ingredients,Safeway,debit_card,dinner;weeknight,,false
+2025-01-30,27.50,dining,Coffee and pastries,Blue Bottle Coffee,credit_card,coffee;breakfast,Client meeting,false
+2025-01-31,110.00,other,Car wash and detailing,Sparkle Auto Wash,cash,car;maintenance,Full interior detail,false
